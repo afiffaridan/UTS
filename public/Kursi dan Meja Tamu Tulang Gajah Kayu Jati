@@ -1,0 +1,60 @@
+<!DOCTYPE html><html><head><script>
+window._blibli_osCollabActive=true;
+var externalQueueStatic = document.createElement('script');
+externalQueueStatic.setAttribute('type', 'text/javascript');
+externalQueueStatic.setAttribute('src', '//static.queue-it.net/script/queueclient.min.js');
+document.head.appendChild(externalQueueStatic);
+var externalQueueConfigLoader = document.createElement('script');
+externalQueueConfigLoader.setAttribute('data-queueit-intercept-domain', 'www.blibli.com');
+externalQueueConfigLoader.setAttribute('data-queueit-intercept', 'true');
+externalQueueConfigLoader.setAttribute('data-queueit-spa', 'true');
+externalQueueConfigLoader.setAttribute('data-queueit-c', 'blibli');
+externalQueueConfigLoader.setAttribute('type', 'text/javascript');
+externalQueueConfigLoader.setAttribute('src', '//static.queue-it.net/script/queueconfigloader.min.js');
+document.head.appendChild(externalQueueConfigLoader);
+</script><script type=text/javascript>if (typeof Object['__defineSetter__'] !== 'function') {
+      window.location.replace("https://www.blibli.com/pages/unsupported-browser");
+    }</script><script type=text/javascript src=https://static.queue-it.net/script/queueclient.min.js></script><script data-queueit-spa=true data-queueit-c=blibli type=text/javascript src=https://static.queue-it.net/script/queueconfigloader.min.js></script><link rel=preload href=https://www.static-src.com/frontend/static/js/app.9d590c0b17fb2b18bd37.js as=script><script type=text/javascript>var _bwaq = _bwaq || [];
+    var akcr = akcr || [];
+    var dataLayer = window.dataLayer || []
+    if (window.dataLayer) {
+      window.dataLayer.push({
+        'appType': 'spa'
+      });
+    }
+    var _spapi = _spapi || [];
+    _spapi.push(['_partner', 'blibli']);
+
+    // nr
+    window._NR_ACCOUNT_ID = '1599910';
+    window._NR_TRUST_KEY = '1219217';
+    window._NR_AGENT_ID = '112531800';
+    window._NR_LICENSE_KEY = '44c8bccbbf';
+    window._NR_APPLICATION_ID = '325157811';
+
+    // thematic header
+    window._BLIBLI_LOGO_URL = 'https://www.static-src.com/siva/coreasset/11_2022//1667397605848//Skin_Web_11-11_LOGO.png';
+    window._BACKGROUND_HEADER_DESKTOP_URL = 'https://www.static-src.com/siva/coreasset/11_2022//1667397605848//Skin_Web_11-11_3810x172.png';
+    window._BACKGROUND_HEADER_MOBILE_URL = '';
+
+    // hide section
+    window._HIDDEN_HOME_SECTIONS = ''
+
+    // wallet section
+    window._MCDOMO_PUBLIC_PATH = 'mcdomo.id'</script><meta name=robots content="index, follow"><meta http-equiv=Content-Type content="text/html; charset=UTF-8"><meta http-equiv=X-UA-Compatible content="IE=edge"><meta http-equiv=origin-trial content=AllxSN0BrDmI9f9koUyx9fcVvuJ1gJDgZwqVVrYfgGuioD1brzdJ+xc37gw5OAznh+/Ump5CV1FtoKjtoMiKKQsAAABneyJvcmlnaW4iOiJodHRwczovL3d3dy5ibGlibGkuY29tOjQ0MyIsImZlYXR1cmUiOiJDb250ZW50SW5kZXgiLCJleHBpcnkiOjE1OTQxNjYzOTksImlzU3ViZG9tYWluIjp0cnVlfQ==><meta name=viewport content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=no"><title>Online Mall Blibli.com, Sensasi Belanja Online Shop ala Mall</title><link rel=manifest href=/sw/manifest.json><meta name=theme-color content=#0095DA><link rel=icon type=image/png sizes=16x16 href=https://www.static-src.com/frontend/static/icons/blibli-favicon.png><link rel=apple-touch-icon href=https://static-uata.gdn-app.com/siva/asset///07_2022/Blibli-Icon.png><meta property=og:site_name content=Blibli.com><meta property=og:url content=https://www.blibli.com/ ><meta property=og:type content=website><meta property=og:image itemprop=image content=https://www.static-src.com/siva/asset//10_2022/Blibli.png><meta property=og:image:secure_url itemprop=image content=https://www.static-src.com/siva/asset//10_2022/Blibli.png><meta name=twitter:card content=summary><meta name=twitter:url content=https://www.blibli.com/ ><meta name=twitter:image content=https://www.static-src.com/siva/asset//10_2022/Blibli.png><meta name=twitter:site content=@bliblidotcom><meta name=twitter:creator content=@bliblidotcom><link href=https://plus.google.com/113297865169814145123 rel=publisher><link href=https://www.blibli.com/opensearch.xml title="Blibli.com Search" type=application/opensearchdescription+xml rel=search><link rel=search type=application/opensearchdescription+xml href=/opensearch.xml title="Blibli.com search"><meta name=google-site-verification content=MHFbr8QmlzUCNbIerYPFGYS6s6TlmEcTDUPrYC3MPIw><link rel="amphtml" href="http://www.blibli.com/amp/p/kursi-meja-tamu-tulang-gajah-kayu-jati-minimalis-furniture-jepara/ps--CED-60029-00098"/><script>// assign public path
+    function attachPublicPath(type) {
+      window['_' + type + '_staticPublicPath'] = function () {
+        return 'https://www.static-src.com/frontend/' + (type && type !== '' && type !== 'main' ? type + '/' : '')
+      }
+    }
+    attachPublicPath('main')
+    window._env_prefix = ''
+    var modules = ['member','product','retail','retail-thank-you','catalog','member-return','member-cases','member-official','wallet','content','review','member-voucher','member-reward','instore','product-cnc','member-digital','ticket-voucher','financial-service-order','travel','product-detail','order-retail','subscription','product-trade-in','product-add-on','member-wishlist','advertisement','insurance','sellerchat','retail-bundling-catalog']
+    var collabs = ['3.75.0-7','1.63.0-1','2.58.0-3','0.11.0-3','2.46.0-16','1.41.0-3','1.12.0-1','1.17.0-9','1.43.0-14','1.51.0-7','1.20.0-1','1.14.0-1','1.21.0-10','1.8.0-3','1.7.0-1','1.37.0-1','1.17.0-2','1.8.0-10','1.19.0-4','1.37.0-15','1.27.0-11','1.21.0-5','1.11.0-2','1.5.0-2','2.0.0-1','1.0.5-5','1.4.0-2','1.9.0-4','1.0.1-1']
+    for (var i = 0; i < modules.length; i++) {
+      var mod = modules[i]
+      attachPublicPath(mod)
+      window['_' + mod + '_ver'] = collabs[i]
+    }
+    window._static_image_path = 'https://www.static-src.com/wcsstore/Indraprastha/'
+    window._homepage_component = 'histeria11-11'</script><script type=text/javascript src=https://www.static-src.com/frontend/static/vendor/nr/v5/index.js></script><script >bazadebezolkohpepadr="188958004"</script><script type="text/javascript" src="https://www.blibli.com/akam/13/b4344c1"  defer></script></head><body><noscript>Please use the latest browser and enable javascript.</noscript><div id=app></div><div id=chat-button></div><script type=text/javascript src=https://www.static-src.com/frontend/static/js/app.9d590c0b17fb2b18bd37.js defer=defer></script><blibli-script></blibli-script><script src=/sw/companion/v1/companion.js data-service-worker=/serviceworker.js defer=defer></script><noscript><img src="https://www.blibli.com/akam/13/pixel_b4344c1?a=dD1hODUxODc2OGY2ZWFhNzAxOTc2MDFkNjI5ZDNiYzU1OWVhNDZjMjUzJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript><script type="text/javascript"  src="/fWBRu0oY4/h/D5YspS3g/uamE2h0t/EhZlAQ/KwVcIml/RCTkB"></script></body></html>
